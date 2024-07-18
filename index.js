@@ -12,8 +12,9 @@ let num4 = 5;
 let mod = (num3/num4);
 console.log(mod);
 
-let num5 = 9;
+
 let num6 = 2;
+let num5 = 9;
 let num7 = 20;
 let num8 = 16;
 let num9 = 11;
